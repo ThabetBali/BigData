@@ -1,0 +1,3 @@
+pandas
+dask
+Faker~=40.5.1
